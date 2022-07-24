@@ -1,0 +1,19 @@
+.footer{
+    height: 40vh;
+    background-color: #91b66e;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 280px;
+}
+.item{
+    width: 60px;
+    height: 60px;
+    border: 1px solid;
+
+}
+.wrapper{
+    flex-direction: column;
+}
