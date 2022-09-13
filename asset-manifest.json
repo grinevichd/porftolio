@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/porftolio/static/css/main.1331542c.css",
+    "main.css": "/porftolio/static/css/main.5dd71f23.css",
     "main.js": "/porftolio/static/js/main.1e5978f3.js",
     "static/js/787.3d1d08ca.chunk.js": "/porftolio/static/js/787.3d1d08ca.chunk.js",
     "static/media/TODOLIST.png": "/porftolio/static/media/TODOLIST.2383747599793ed7b67f.png",
@@ -13,12 +13,12 @@
     "static/media/icons8-javascript.svg": "/porftolio/static/media/icons8-javascript.2c4ec503447402632078448b9a2fc3c5.svg",
     "static/media/github-svgrepo-com.svg": "/porftolio/static/media/github-svgrepo-com.17734d8c1ccc010b09ecabb925d24041.svg",
     "static/media/icons8-typescript.svg": "/porftolio/static/media/icons8-typescript.58fdeec059797b8730abc9160768b38e.svg",
-    "main.1331542c.css.map": "/porftolio/static/css/main.1331542c.css.map",
+    "main.5dd71f23.css.map": "/porftolio/static/css/main.5dd71f23.css.map",
     "main.1e5978f3.js.map": "/porftolio/static/js/main.1e5978f3.js.map",
     "787.3d1d08ca.chunk.js.map": "/porftolio/static/js/787.3d1d08ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1331542c.css",
+    "static/css/main.5dd71f23.css",
     "static/js/main.1e5978f3.js"
   ]
 }
