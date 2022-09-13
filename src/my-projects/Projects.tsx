@@ -2,14 +2,19 @@ import React from 'react';
 import style from './Projects.module.css'
 import styleContainer from  '../common/style/Container.module.css'
 import {Project} from "./project/Project";
+import {Title} from "../common/compomemts/title/Title";
+import todolistImage from './../assets/image/TODOLIST.png'
 export const Projects = () => {
+    const todo = {
+        backgroundImage: `url(${todolistImage})`,
+    };
     return (
         <div className={`${style.projectsBlock}`}>
             <div className={`${styleContainer.container} ${style.projectContainer}`}>
-                <h2 className={style.title}>Мои работы</h2>
+                <Title title={"Projects"}/>
                 <div className={style.projects}>
-                <Project description="Тудулист" shortDescription="Краткое описание"/>
-                <Project description="Сеть" shortDescription="Краткое описание"/>
+                <Project style={todo} description="Todolist" shortDescription="Краткое описание"/>
+                <Project  description="Social network" shortDescription="Краткое описание"/>
                 </div>
             </div>
 

@@ -4,10 +4,10 @@ import style from "./Navi.module.css"
 export const Navi = () => {
     return (
         <div className={style.navi}>
-            <a href="">Главная</a>
-            <a href="">Скиллы</a>
-            <a href="">Проекты</a>
-            <a href="">Контакты</a>
+            <a href="">Home</a>
+            <a href="">Skills</a>
+            <a href="">Projects</a>
+            <a href="">Contact</a>
 
         </div>
     );

@@ -1,6 +1,6 @@
 .button{
-    background-color: #ababab;
-    border: none;
+    border: 1px solid white;
+
     outline: none;
     height: 50px;
 }
