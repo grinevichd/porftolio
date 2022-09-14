@@ -127,6 +127,14 @@
         height: 100%;
     }
 }
+@media screen and (min-width: 1265px) and (orientation: landscape) {
+    .mainBlock {
+        height: 100vh;
+    }
+}
+/*@media screen and (orientation:portrait) {*/
+/*    */
+/*}*/
 
 /*@media screen and (max-width : 1395px) {*/
 
